@@ -6,6 +6,3 @@ File found at modules/gateways/callback/scorecoin.php should be ran as a cron jo
 Features unique payment address and account (accounts are named after %userid%-%invoiceid%) for each invoice.
 Connects to scored rpc instance.  Currently only over http.
 
-Future developments:
-WHMCS scorecoin module add on for reviewing scorecoin wallet and sending credits back to clients from admin.
-
